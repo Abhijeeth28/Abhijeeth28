@@ -7,7 +7,7 @@
 
   <p align="center">
     <b>Senior Software Engineer @ Kore.ai</b> <br>
-    Bridging high-throughput backend infrastructure (5M+ RPS) with autonomous Voice & AI Agents.
+    Bridging high-throughput backend infrastructure with autonomous Voice & AI Agents.
   </p>
 
   <p align="center">
@@ -19,23 +19,13 @@
 
 <br>
 
-<!-- TWO COLUMN LAYOUT: About & Stats -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h3>⚡ Engineering Scope</h3>
-      <ul>
-        <li><b>Scale:</b> Architecting Node.js & event-driven microservices sustaining 99.99% uptime.</li>
-        <li><b>Voice AI:</b> Engineering real-time conversational pipelines (sub-500ms latency) via Jambonz, WebSockets, and LLM TTS.</li>
-        <li><b>Agentic Tooling:</b> Authored <i>VoxLab</i> for automated IVR testing and <i>Auto RCA pipelines</i> using Claude Agents for JIRA.</li>
-        <li><b>Current Focus:</b> Optimizing RAG precision and scaling multi-lingual audio intelligence (Pyannote/Tacotron2).</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abhijeeth28&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=A1A1AA&icon_color=3B82F6&title_color=FFFFFF" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<h3>⚡ Engineering Scope</h3>
+<ul>
+  <li><b>Scale:</b> Architecting Node.js & event-driven microservices sustaining 99.99% uptime.</li>
+  <li><b>Voice AI:</b> Engineering real-time conversational pipelines (sub-500ms latency) via Jambonz, WebSockets, and LLM TTS.</li>
+  <li><b>Agentic Tooling:</b> Authored <i>VoxLab</i> for automated IVR testing and <i>Auto RCA pipelines</i> using Claude Agents for JIRA.</li>
+  <li><b>Current Focus:</b> Optimizing RAG precision and scaling multi-lingual audio intelligence (Pyannote/Tacotron2).</li>
+</ul>
 
 <br>
 
